@@ -26,7 +26,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/dropbox-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![alt tag](https://raw.githubusercontent.com/zachacole/Codepath-Week-1-Dropbox/master/dropbox-gif.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
